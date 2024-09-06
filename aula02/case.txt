@@ -1,0 +1,7 @@
+nicolasAraujo - camelCase
+NicolasAraujo - PascalCase
+nicolas_araujo - snake_case
+nicolas-araujo - kebab-case
+
+- Flat Case
+- Upper Case
